@@ -8,7 +8,7 @@ resource "azurerm_resource_group" "rg1" {
   location = "central india"
 }
 
-resource "azurerm_resource_group" "rg1" {
+resource "azurerm_resource_group" "rg22" {
   name = "tinku-rg"
   location = "central india"
 }
