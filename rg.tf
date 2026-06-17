@@ -3,7 +3,7 @@ resource "azurerm_resource_group" "rg" {
   location = "east us"
 }
 
-resource "azurerm_resource_group" "rg" {
+resource "azurerm_resource_group" "rg11" {
   name = "dadri-mzn"
   location = "east us"
 }
