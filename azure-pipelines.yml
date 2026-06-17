@@ -14,8 +14,8 @@ steps:
       provider: 'azurerm'
       command: 'init'
       backendServiceArm: 'ado-svc'
-      backendAzureRmStorageAccountName: 'sandeepstg00234'
-      backendAzureRmContainerName: 'sandeep-ctr'
+      backendAzureRmStorageAccountName: 'yogistg98227'
+      backendAzureRmContainerName: 'yogi-ctr'
       backendAzureRmKey: 'yogi.tfstate'
 
   - task: TerraformTask@5
